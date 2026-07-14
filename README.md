@@ -4,6 +4,15 @@
 
 Proyek ini merupakan end-to-end data analysis pipeline yang mengekstraksi data asuransi dari database lokal, melakukan pembersihan dan transformasi data, hingga menghasilkan dasbor interaktif. Tujuannya adalah untuk memberikan visibilitas terhadap demografi nasabah, kinerja produk asuransi, dan status penyelesaian klaim guna mendukung keputusan bisnis yang lebih baik.
 
+## Business Objective
+
+Dalam industri asuransi, memantau rasio klaim terhadap premi dan memahami profil nasabah adalah hal yang krusial. Dasbor ini dirancang untuk menjawab pertanyaan bisnis berikut:
+
+- Bagaimana distribusi status polis nasabah (Aktif vs. Tidak Aktif)?
+- Produk asuransi mana yang menghasilkan pendapatan premi tertinggi?
+- Bagaimana demografi umur memengaruhi besaran klaim yang diajukan?
+- Bagaimana performa penyelesaian klaim (Ditolak, Disetujui, atau Tertunda)?
+
 ## Tech Stack
 
 - Sumber Data: PostgreSQL (Local Database)
