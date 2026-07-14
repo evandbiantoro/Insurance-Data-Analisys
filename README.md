@@ -20,7 +20,7 @@ Data mentah dari PostgreSQL diimpor ke Power BI dan diproses menggunakan Power Q
   - Age Group Column: Menggunakan Conditional Column untuk membuat kategori Age Group untuk mempermudah analisis profil risiko:
     - <= 24 tahun diklasifikasikan sebagai Young Adult.
     - <= 60 tahun diklasifikasikan sebagai Adult.
-    - > 60 tahun diklasifikasikan sebagai Elder.
+    - .> 60 tahun diklasifikasikan sebagai Elder.
   - Active/Inactive Column: Membuat Conditional Column untuk melacak status Active/Inactive berdasarkan masa berlaku polis. Jika PolicyEndDate jatuh pada atau sebelum tanggal 10/12/2024, maka statusnya Inactive, selain dari itu dianggap Active.
 
 ## Key Insights
