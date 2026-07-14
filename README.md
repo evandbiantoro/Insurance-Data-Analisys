@@ -28,9 +28,6 @@ Data mentah dari PostgreSQL diimpor ke Power BI dan diproses menggunakan Power Q
 Berdasarkan dasbor yang telah dikembangkan, berikut temuan utama dari data asuransi:
 
 - Tinjauan Finansial (KPI Utama): Perusahaan mencatat total Premium Amount sebesar 5.98M, dengan Claim Amount mencapai 16.91M, dan total nilai pertanggungan (Coverage Amount) di angka 600.55M.
-
-Kinerja Produk (Premi): Asuransi Perjalanan (Travel) adalah penyumbang premi terbesar (2.48M), jauh mengungguli produk lain seperti asuransi Kesehatan (Health - 1.20M) dan Kendaraan (Auto - 0.96M).
-
+- Kinerja Produk (Premi): Asuransi Perjalanan (Travel) adalah penyumbang premi terbesar (2.48M), jauh mengungguli produk lain seperti asuransi Kesehatan (Health - 1.20M) dan Kendaraan (Auto - 0.96M).
 - Profil Demografi & Klaim: Kelompok usia Adult menyumbang nominal klaim tertinggi (8.8M), diikuti oleh kelompok Elder (6.4M). Secara gender, basis pelanggan terdistribusi sangat seimbang (5.001K Perempuan vs 5.003K Laki-laki).
-
 - Status Klaim & Polis: Mayoritas polis saat ini berstatus aktif (5.82K). Namun, perlu diperhatikan bahwa tingkat penolakan klaim cukup tinggi (4.4K Rejected), yang mengindikasikan perlunya evaluasi pada proses pengajuan klaim nasabah.
